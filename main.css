@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.box-title {
+    background-color: blue;
+    font-family: georgia, serif;
+    font-size: 32px;
+}
+.box-text {
+    background-color: red;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+}
